@@ -3,7 +3,7 @@
 @tailwind components;
 @tailwind utilities;
 
-/* *{
+*{
    font-family: Outfit; 
 }
 
@@ -19,4 +19,4 @@
   .active p{
     @apply text-white bg-primary
   }
-} */
+}
