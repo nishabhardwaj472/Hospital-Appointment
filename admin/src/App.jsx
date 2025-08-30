@@ -1,5 +1,7 @@
 import React, { useContext } from 'react';
-import Login from './pages/Login';
+import Login from "./pages/Login"; // adjust path based on where your Login.jsx file is
+
+
 import { ToastContainer } from 'react-toastify';
 import { AdminContext } from './context/AdminContext';
 import Navbar from './components/Navbar';
